@@ -17,8 +17,6 @@ public class Randompage {
 	
 	@FindBy(xpath= "//a[text() ='Top Deals']")
 	WebElement Topdeals ;
-/*	@FindBy(xpath = "")
-	WebElement Flightbooking;*/
 	
 	public void Topdealslink() {
 		
